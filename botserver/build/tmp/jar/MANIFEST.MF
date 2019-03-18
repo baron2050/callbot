@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: TarsosDSP-2.4.jar asterisk-java-2.0.0.CI-SNAPSHOT.jar slf4
+ j-log4j12-1.6.4.jar slf4j-api-1.7.9.jar netty-all-4.1.32.Final.jar lo
+ g4j-1.2.17.jar commons-lang3-3.1.jar
+Main-Class: botserver.BotServer
+
